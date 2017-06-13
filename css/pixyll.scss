@@ -37,3 +37,11 @@
 a {
     color: #7ca8ef;
 }
+
+.postNavigation a:nth-child(1){
+  float:left;
+}
+
+.postNavigation a:nth-child(2){
+  float:right;
+}
