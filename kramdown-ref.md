@@ -1,7 +1,7 @@
 # Images
 
 ![Alt text](/images/2017-07-23-anabella-pointing-at-a-duck.jpg)
-*image caption*
+*<sup>image caption</sup>*
 
 # Links
 
