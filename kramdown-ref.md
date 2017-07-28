@@ -1,4 +1,4 @@
-# Images
+# Images (use http://optimizilla.com/ to optimize for web)
 
 ![Alt text](/images/2017-07-23-anabella-pointing-at-a-duck.jpg)
 *<sup>image caption</sup>*
